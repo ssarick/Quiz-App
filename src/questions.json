@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Capital of Uzbekistan",
+    "optionA": "Tashkent",
+    "optionB": "Kashkadarya",
+    "optionC": "Sirdarya",
+    "optionD": "Djizakh",
+    "answer": "Tashkent"
+  },
+
+  {
+    "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+    "optionA": "Wole Soyinka",
+    "optionB": "William Shakespeare",
+    "optionC": "Ngozi Chimamanda Adichie",
+    "optionD": "Dan Brown",
+    "answer": "William Shakespeare"
+  },
+
+  {
+    "question": "Popular meal in Uzbekistan?",
+    "optionA": "Pizza",
+    "optionB": "Pasta",
+    "optionC": "Steak",
+    "optionD": "Plov",
+    "answer": "Plov"
+  },
+
+  {
+    "question": "Can Uzbek people survive for 5600 sum per day?",
+    "optionA": "Yes",
+    "optionB": "Undoubtely",
+    "optionC": "It's imposible",
+    "optionD": "No",
+    "answer": "Undoubtely"
+  },
+
+  {
+    "question": "Who lived at 221B, Baker Street, London?",
+    "optionA": "Tony Stark",
+    "optionB": "Morgan Freeman",
+    "optionC": "Sherlock Holmes",
+    "optionD": "Samuel L. Jackson",
+    "answer": "Sherlock Holmes"
+  }
+]
